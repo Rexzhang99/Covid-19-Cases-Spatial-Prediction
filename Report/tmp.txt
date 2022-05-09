@@ -1,0 +1,10 @@
+\begin{enumerate}
+    \item Linear $$
+        \rho(s)= \begin{cases}1-\sigma \cdot \frac{s}{\ell} & s<\frac{\ell}{\sigma} \\ 0 & s \geq \frac{\ell}{\sigma}\end{cases}
+        $$
+    \item Power $$
+        \gamma(s)=\sigma^{2}\left(1-\exp \left(-\sigma \cdot \frac{s}{\ell}\right)\right)+n
+        $$
+    \item Gaussian $$\gamma(s)=\sigma^{2}\left(1-\exp \left(-\left(\sigma \cdot \frac{s}{\ell}\right)^{2}\right)\right)+n$$
+    \item Spherical $$\rho(s)= \begin{cases}1-\frac{3}{2} \cdot \sigma \cdot \frac{s}{\ell}+\frac{1}{2} \cdot\left(\sigma \cdot \frac{s}{\ell}\right)^{3} & s<\frac{\ell}{\sigma} \\ 0 & s \geq \frac{\ell}{\sigma}\end{cases}$$
+\end{enumerate}

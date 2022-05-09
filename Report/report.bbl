@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{cdcp}
+Centers for Disease~Control and Prevention.
+\newblock United states covid-19 community levels by county.
+\newblock {\em Centers for Disease Control and Prevention}, May 2022.
+
+\bibitem{haklay2008openstreetmap}
+Mordechai Haklay and Patrick Weber.
+\newblock Openstreetmap: User-generated street maps.
+\newblock {\em IEEE Pervasive computing}, 7(4):12--18, 2008.
+
+\bibitem{jordahl2014geopandas}
+K~Jordahl.
+\newblock Geopandas: Python tools for geographic data.
+\newblock {\em URL: https://github. com/geopandas/geopandas}, 3, 2014.
+
+\bibitem{kang2020spatial}
+Dayun Kang, Hyunho Choi, Jong-Hun Kim, and Jungsoon Choi.
+\newblock Spatial epidemic dynamics of the covid-19 outbreak in china.
+\newblock {\em International Journal of Infectious Diseases}, 94:96--102, 2020.
+
+\bibitem{muller2022gstools}
+Sebastian M{\"u}ller, Lennart Sch{\"u}ler, Alraune Zech, and Falk He{\ss}e.
+\newblock Gstools v1. 3: A toolbox for geostatistical modelling in python.
+\newblock {\em Geoscientific Model Development}, 15(7):3161--3182, 2022.
+
+\bibitem{pedregosa2011scikit}
+Fabian Pedregosa, Ga{\"e}l Varoquaux, Alexandre Gramfort, Vincent Michel,
+  Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron
+  Weiss, Vincent Dubourg, et~al.
+\newblock Scikit-learn: Machine learning in python.
+\newblock {\em the Journal of machine Learning research}, 12:2825--2830, 2011.
+
+\bibitem{slater2021capturing}
+Justin~J Slater, Patrick~E Brown, Jeffrey~S Rosenthal, and Jorge Mateu.
+\newblock Capturing spatial dependence of covid-19 case counts with cellphone
+  mobility data.
+\newblock {\em Spatial Statistics}, page 100540, 2021.
+
+\end{thebibliography}
