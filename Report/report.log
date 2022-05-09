@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.20)  8 MAY 2022 20:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.20)  8 MAY 2022 20:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -354,7 +354,7 @@ Package pdftex.def Info: fig/Prediction.pdf  used on input line 296.
 
 pdfTeX warning: pdflatex (file /Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/fig/Regression Kriging.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Overfull \hbox (2.11171pt too wide) in paragraph at lines 314--315
+Overfull \hbox (2.11171pt too wide) in paragraph at lines 316--317
 []\OT1/cmr/m/n/10 We should try more de-ter-min-is-tic mod-els with the re-gres-sion krig-ing model,
  []
 
@@ -367,15 +367,15 @@ Underfull \hbox (badness 1052) in paragraph at lines 14--17
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 327.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 329.
  [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 327.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 329.
  (/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 327.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 327.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 329.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 329.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 6CCCA366230FE8F9D111E6F099881043;1043.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 327.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 329.
  ) 
 Here is how much of TeX's memory you used:
  8693 strings out of 480608
@@ -386,10 +386,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  48i,8n,46p,965b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.pdf" (10 pages, 1846705 bytes).
+Output written on "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.pdf" (10 pages, 1846894 bytes).
 PDF statistics:
- 466 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
+ 467 PDF objects out of 1000 (max. 8388607)
+ 265 compressed objects within 3 object streams
  52 named destinations out of 1000 (max. 500000)
  187 words of extra memory for PDF output out of 10000 (max. 10000000)
 

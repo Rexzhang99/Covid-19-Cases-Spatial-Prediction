@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex report"] 1652059594 "report.aux" "report.bbl" "report" 1652059820
+["bibtex report"] 1652059594 "report.aux" "report.bbl" "report" 1652060153
   "/usr/local/texlive/2020/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "ref.bib" 1652051405 2670 2e043827a6f99ebd57c44337115d793d ""
-  "report.aux" 1652059818 5935 abe6ea0f09ee86986147ecb7bcefd6d6 "pdflatex"
+  "report.aux" 1652060152 5935 abe6ea0f09ee86986147ecb7bcefd6d6 "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
-["pdflatex"] 1652059816 "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.tex" "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.pdf" "report" 1652059820
-  "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.aux" 1652059818 5935 abe6ea0f09ee86986147ecb7bcefd6d6 ""
-  "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.tex" 1652059815 21432 d8bb37d5125f444b8ce8846ee61173a4 ""
+["pdflatex"] 1652060149 "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.tex" "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.pdf" "report" 1652060153
+  "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.aux" 1652060152 5935 abe6ea0f09ee86986147ecb7bcefd6d6 ""
+  "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.tex" 1652060148 21537 a3d163752104cf817d5fe4cb89fefa7e ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -108,14 +108,14 @@
   "fig/Relationship Between Population and Cases.pdf" 1652028450 16878 94b1e63daf53c5d675fb64abbb9047de ""
   "fig/Suspicious Error Data in Texas.png" 1651963449 347885 3bfddfec848bf1ed70494e5168ff70be ""
   "fig/Vaccination Plot.png" 1652051734 689274 5c1666757d6c2f8f65267515e05c1799 ""
-  "report.aux" 1652059818 5935 abe6ea0f09ee86986147ecb7bcefd6d6 "pdflatex"
+  "report.aux" 1652060152 5935 abe6ea0f09ee86986147ecb7bcefd6d6 "pdflatex"
   "report.bbl" 1652059594 1683 d57a8922dcab8c6fb5ec36030967a780 "bibtex report"
-  "report.out" 1652059818 1043 6ccca366230fe8f9d111e6f099881043 "pdflatex"
-  "report.tex" 1652059815 21432 d8bb37d5125f444b8ce8846ee61173a4 ""
+  "report.out" 1652060152 1043 6ccca366230fe8f9d111e6f099881043 "pdflatex"
+  "report.tex" 1652060148 21537 a3d163752104cf817d5fe4cb89fefa7e ""
   (generated)
-  "report.pdf"
-  "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.log"
-  "report.aux"
   "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.pdf"
+  "report.pdf"
+  "report.aux"
+  "/Users/trent/Documents/Study/Courses/2022.1/STAT 545 Spatial Statistics/Final Project/Report/report.log"
   "report.out"
   "report.log"
